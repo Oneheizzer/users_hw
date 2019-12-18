@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="179d8d16-68af-40c6-89f9-c0fd6c7bc1b4" name="Default Changelist" comment="" />
+    <list default="true" id="179d8d16-68af-40c6-89f9-c0fd6c7bc1b4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/users.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/DataUser.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/DataUser.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/META-INF/Users.kotlin_module" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +22,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1UfWyvCvT2uVEdlWIXO3RpkCH4b" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,6 +34,8 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Mixcloud" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
   <component name="RunManager" selected="JUnit.DataUser">
@@ -76,29 +90,41 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1575750658356">
+    <state x="280" y="23" key="#DataUser" timestamp="1576678058264">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1575750658356" />
-    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1575750658356">
+    <state x="280" y="23" key="#DataUser/0.0.1366.738@0.0.1366.738" timestamp="1576678058264" />
+    <state x="463" y="123" key="FileChooserDialogImpl" timestamp="1576678111120">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1575750658356" />
-    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1575750658356">
+    <state x="463" y="123" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1576678111120" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1576678272499">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1575750658356" />
-    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1575750658356">
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1576678272499" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1576678272499">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1575750658356" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1576678272499" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1576678272499">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1576678272499" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1576678272499">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1576678272499" />
     <state x="184" y="11" key="SettingsEditor" timestamp="1575748971623">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="184" y="11" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1575748971623" />
-    <state x="384" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1575748401849">
+    <state x="384" y="192" key="com.intellij.ide.util.TipDialog" timestamp="1575793326955">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="384" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1575748401849" />
+    <state x="384" y="192" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1575793326955" />
+    <state x="65" y="70" key="new project wizard" timestamp="1575793458008">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="65" y="70" key="new project wizard/0.0.1366.738@0.0.1366.738" timestamp="1575793458008" />
   </component>
 </project>
